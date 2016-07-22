@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PruebaAplicaciones</string>
+    <string name="IngreseCorreo">IngreseCorreo</string>
+    <string name="IngreseContraseña">IngreseContraseña</string>
+    <string name="Ingresar">Ingresar</string>
+    <string name="Registrarse">Registrarse</string>
+    <string name="Registrar">Registrar</string>
+</resources>
